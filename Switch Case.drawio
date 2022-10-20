@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T04:32:24.996Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="wTiKkXSXn9W-29hUx56x" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-20T06:02:40.684Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="3-GuJsIU4cZA1-EzSwqx" version="20.4.2" type="github">
   <diagram id="QCJK3GoZey0fLzVgRwON" name="Page-1">
     <mxGraphModel dx="872" dy="518" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="iYkwQjaNwLjaEjHxsNRi-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_EEXz0VH0YhpJqHSqHq0-2" target="_EEXz0VH0YhpJqHSqHq0-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_EEXz0VH0YhpJqHSqHq0-2" value="nilai = CASE 1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;shadow=0;" parent="1" vertex="1">
+        <mxCell id="_EEXz0VH0YhpJqHSqHq0-2" value="pilihan&amp;nbsp;= CASE 1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="134" y="164" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="_EEXz0VH0YhpJqHSqHq0-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_EEXz0VH0YhpJqHSqHq0-3" target="_EEXz0VH0YhpJqHSqHq0-4" edge="1">
@@ -25,7 +25,7 @@
         <mxCell id="_EEXz0VH0YhpJqHSqHq0-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_EEXz0VH0YhpJqHSqHq0-3" target="_EEXz0VH0YhpJqHSqHq0-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_EEXz0VH0YhpJqHSqHq0-3" value="nilai =&amp;nbsp;CASE 2" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_EEXz0VH0YhpJqHSqHq0-3" value="pilihan&amp;nbsp;=&amp;nbsp;CASE 2" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="134" y="300" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="_EEXz0VH0YhpJqHSqHq0-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_EEXz0VH0YhpJqHSqHq0-4" target="_EEXz0VH0YhpJqHSqHq0-8" edge="1">
@@ -73,7 +73,7 @@
         <mxCell id="iYkwQjaNwLjaEjHxsNRi-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iYkwQjaNwLjaEjHxsNRi-7" target="_EEXz0VH0YhpJqHSqHq0-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iYkwQjaNwLjaEjHxsNRi-7" value="SWITCH&lt;br&gt;(nilai)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iYkwQjaNwLjaEjHxsNRi-7" value="SWITCH&lt;br&gt;(pilihan)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="129" y="95" width="120" height="43" as="geometry" />
         </mxCell>
       </root>
